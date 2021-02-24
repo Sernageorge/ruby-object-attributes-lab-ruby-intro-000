@@ -15,3 +15,7 @@ class Person
     @job
   end
 end
+
+mikaela = Person.new
+mikaela.name=("Mikaela")
+mikaela.job=("Health Coach")
