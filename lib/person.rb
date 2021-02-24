@@ -20,5 +20,5 @@ mikaela = Person.new
 mikaela.name=("Mikaela")
 mikaela.job=("Health Coach")
 
-mikaela.name
-mikaela.job
+puts mikaela.name
+puts mikaela.job
